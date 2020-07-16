@@ -1,6 +1,6 @@
 ### Hi, My name is Vitor 👋
 
-<h3>I'm a young programmer from Brazil</h3>
+<h3>I'm a young programmer from Brazil :trophy:</h3>
  
 <!--
 **vitorsavian/vitorsavian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
