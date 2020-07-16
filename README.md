@@ -1,7 +1,13 @@
-### Hi, My name is Vitor 👋
+### Hi, My name is Vitor 👋 Welcome to my Profile ⚡⚡
 
-<h3>I'm a young programmer from Brazil :trophy:</h3>
- 
+<h3>I'm a young programmer from Brazil :trophy:⚡</h3>
+
+<h5>- Learning at the moment :arrow_right: React, React Native and NodeJS</h5>
+<h5>- In love with Docker and DevOps culture :whale:</h5>
+<h5>- Learning how to write good tests :computer:</h5>
+<h5>- Good at Video Games :video_game: :space_invader:</h5>
+<h3>In this GitHub you will see my Side Projects :shipit:</h3>
+
 <!--
 **vitorsavian/vitorsavian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
