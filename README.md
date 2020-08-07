@@ -2,6 +2,7 @@
 
 <h3>I'm a young programmer from Brazil :trophy:⚡</h3>
 
+<h5>- Working with React, Node and Firebase :headphones:</h5>
 <h5>- Learning at the moment :arrow_right: React, React Native and NodeJS</h5>
 <h5>- In love with Docker and DevOps culture :whale:</h5>
 <h5>- Learning how to write good tests :computer:</h5>
