@@ -1,7 +1,7 @@
 ### Hi there, Welcome to my Github 👋
 <h3> My Name is Vitor :video_game: :game_die:</h3>
 
-- Elixir, Golang and Rust Enthusiast :trophy: :rice_cracker:
+- Elixir, Golang and Node Enthusiast :trophy: :rice_cracker:
 - In love with DevOps culture :whale2:
 - Working with React, Node and Firebase at the moment :heavy_check_mark:
 - RPG and Video Games lover 24/7 :video_game: :space_invader:
