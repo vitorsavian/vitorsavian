@@ -2,30 +2,52 @@
 <h3> My Name is Vitor :video_game: :game_die:</h3>
 
 <div style="display: flex">
+    <div>
+        <span>
+            - Elixir, Golang and Node Enthusiast :trophy: :rice_cracker:
+        </span>
+        <br>
+        <span>
+            - In love with DevOps culture :whale2:
+        </span>
+        <br>
+        <span>
+            - Working with React, Node and Firebase at the moment :heavy_check_mark:
+        </span>
+        <br>
+        <span>
+            - RPG and Video Games lover 24/7 :video_game: :space_invader:
+        </span>
+        <br>
+        <span>
+            - Trying every day to become a better person and better programmer :black_joker:
+        </span>
+        <br>
+        <span>
+            - Studying at the moment -> Clean Code, Clean Architecture and Algorithms :flower_playing_cards:
+        </span>
+        <br>
+        <span>
+            - Waiting for Skynet dominate us all :robot:
+        </span>
+        <br>
+        <span>
+            - Just an Studio ghibli lover :heavy_heart_exclamation:
+        </span>
+    </div>
     
     <div>
-        - Elixir, Golang and Node Enthusiast :trophy: :rice_cracker:
-        - In love with DevOps culture :whale2:
-        - Working with React, Node and Firebase at the moment :heavy_check_mark:
-        - RPG and Video Games lover 24/7 :video_game: :space_invader:
-        - Trying every day to become a better person and better programmer :black_joker:
-        - Studying at the moment -> Clean Code, Clean Architecture and Algorithms :flower_playing_cards:
-        - Waiting for Skynet dominate us all :robot:
-        - Just an Studio ghibli lover :heavy_heart_exclamation:
-    </div>
-    <div>
+    fon
     </div>
 
 </div>
 
 <h2>Github Stats</h2>
-
-<div>
+<br>
 <a href="https://github.com/iconicsoda">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iconicsoda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iconicsoda&layout=compact&langs_count=8&theme=dracula"/>
 <div>
-
 <div style="display: inline_block"><br>
 
   <h2>Skills</h2>
