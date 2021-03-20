@@ -36,9 +36,9 @@
     </div>
     <h2></h2>
     <div align="center">
-        <img align="center" src="/images/Artorias.gif" height="180em" />
-        <h3>PRAISE THE SUN!!</h3>
-        <img align="center" src="/images/bonfire.gif" height="180em" />
+        <img src="/images/Artorias.gif" height="180em" />
+        <h2 style="display: block;">PRAISE THE SUN</h2>
+        <img src="/images/bonfire.gif" height="180em" />
     </div>
 </div>
 
