@@ -2,7 +2,7 @@
 <h3> My Name is Vitor :video_game: :game_die:</h3>
 
 <div style="display: flex;">
-    <div>
+    <div align="center">
         <span>
            - Elixir, Golang and Node Enthusiast :trophy: :rice_cracker: <img src="/images/Artorias.gif" height="180em" />
         </span>
@@ -35,7 +35,7 @@
             - Just an Studio ghibli lover :heavy_heart_exclamation:
         </span>
     </div>
-    <div>
+    <div align="center">
         <img src="/images/Artorias.gif" height="180em" />
         <img src="/images/bonfire.gif" height="180em" />
     </div>
