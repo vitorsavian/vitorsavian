@@ -1,10 +1,10 @@
 ### Hi there, Welcome to my Github 👋
 <h3> My Name is Vitor :video_game: :game_die:</h3>
 
-<div style="display: flex">
+<div style="display: flex;">
     <div>
         <span>
-            - Elixir, Golang and Node Enthusiast :trophy: :rice_cracker:
+           - Elixir, Golang and Node Enthusiast :trophy: :rice_cracker:
         </span>
         <br>
         <span>
@@ -36,7 +36,8 @@
         </span>
     </div>
     <div>
-        <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+        <img src="https://tenor.com/view/dark-souls-bonfire-gif-20055180" height="180em" />
+        <img src="https://tenor.com/view/dark-souls-bonfire-gif-20055180" height="180em" />
     </div>
 
 </div>
