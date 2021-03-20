@@ -1,7 +1,8 @@
 ### Hi there, Welcome to my Github 👋
 <h3> My Name is Vitor :video_game: :game_die:</h3>
 
-<div style="display: flex;">
+<table style="width: 100%">
+    <tr>
     <div>
         <span>
            - Elixir, Golang and Node Enthusiast :trophy: :rice_cracker:
@@ -35,12 +36,14 @@
             - Just an Studio ghibli lover :heavy_heart_exclamation:
         </span>
     </div>
+    </tr>
+    <tr>
     <div>
         <img src="/images/Artorias.gif" height="180em" />
         <img src="/images/bonfire.gif" height="180em" />
     </div>
-
-</div>
+    </tr>
+</table>
 
 <h2>Github Stats</h2>
 <br>
