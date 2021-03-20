@@ -38,9 +38,6 @@
 </div>
     <div align="center">
         <img src="/images/Artorias.gif" height="180em" />
-        <strong>
-        PRAISE THE SUN
-        </strong>
         <img src="/images/bonfire.gif" height="180em" />
     </div>
 
