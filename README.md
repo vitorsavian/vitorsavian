@@ -4,7 +4,7 @@
 <div style="display: flex;">
     <div>
         <span>
-           - Elixir, Golang and Node Enthusiast :trophy: :rice_cracker:
+           - Elixir, Golang and Node Enthusiast :trophy: :rice_cracker: <img src="/images/Artorias.gif" height="180em" />
         </span>
         <br>
         <span>
@@ -12,7 +12,7 @@
         </span>
         <br>
         <span>
-            - Working with React, Node and Firebase at the moment :heavy_check_mark:
+            - Working with React, Node and Firebase at the moment :heavy_check_mark: <img src="/images/bonfire.gif" height="180em" />
         </span>
         <br>
         <span>
