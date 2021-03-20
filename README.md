@@ -1,22 +1,34 @@
 ### Hi there, Welcome to my Github 👋
 <h3> My Name is Vitor :video_game: :game_die:</h3>
 
-- Elixir, Golang and Node Enthusiast :trophy: :rice_cracker:
-- In love with DevOps culture :whale2:
-- Working with React, Node and Firebase at the moment :heavy_check_mark:
-- RPG and Video Games lover 24/7 :video_game: :space_invader:
-- Trying every day to become a better person and better programmer :black_joker:
-- Studying at the moment -> Clean Code, Clean Architecture and Algorithms :flower_playing_cards:
-- Waiting for Skynet dominate us all :robot:
-- Just an Studio ghibli lover :heavy_heart_exclamation:
+<div style="display: flex">
+    
+    <div>
+        - Elixir, Golang and Node Enthusiast :trophy: :rice_cracker:
+        - In love with DevOps culture :whale2:
+        - Working with React, Node and Firebase at the moment :heavy_check_mark:
+        - RPG and Video Games lover 24/7 :video_game: :space_invader:
+        - Trying every day to become a better person and better programmer :black_joker:
+        - Studying at the moment -> Clean Code, Clean Architecture and Algorithms :flower_playing_cards:
+        - Waiting for Skynet dominate us all :robot:
+        - Just an Studio ghibli lover :heavy_heart_exclamation:
+    </div>
+    <div>
+    </div>
 
+</div>
+
+<h2>Github Stats</h2>
+
+<div>
 <a href="https://github.com/iconicsoda">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iconicsoda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iconicsoda&layout=compact&langs_count=8&theme=dracula"/>
 <div>
+
 <div style="display: inline_block"><br>
 
-  <h2>Skills</h3>
+  <h2>Skills</h2>
 
   <h4>Back-End Languages</h4>
   <img align="center" alt="Vitor-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
