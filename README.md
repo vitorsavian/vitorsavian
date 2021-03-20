@@ -35,8 +35,9 @@
         </span>
     </div>
     <h2></h2>
-    <div>
+    <div align="center">
         <img align="center" src="/images/Artorias.gif" height="180em" />
+        <h3>PRAISE THE SUN!!</h3>
         <img align="center" src="/images/bonfire.gif" height="180em" />
     </div>
 </div>
