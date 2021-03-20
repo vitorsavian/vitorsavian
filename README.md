@@ -34,8 +34,7 @@
             - Just an Studio ghibli lover :heavy_heart_exclamation:
         </span>
     </div>
-    <br>
-    <hr>
+    <h2></h2>
     <div>
         <img align="center" src="/images/Artorias.gif" height="180em" />
         <img align="center" src="/images/bonfire.gif" height="180em" />
