@@ -2,9 +2,9 @@
 <h3> My Name is Vitor :video_game: :game_die:</h3>
 
 <div style="display: flex;">
-    <div align="center">
+    <div>
         <span>
-           - Elixir, Golang and Node Enthusiast :trophy: :rice_cracker: <img src="/images/Artorias.gif" height="180em" />
+           - Elixir, Golang and Node Enthusiast :trophy: :rice_cracker:
         </span>
         <br>
         <span>
@@ -12,7 +12,7 @@
         </span>
         <br>
         <span>
-            - Working with React, Node and Firebase at the moment :heavy_check_mark: <img src="/images/bonfire.gif" height="180em" />
+            - Working with React, Node and Firebase at the moment :heavy_check_mark: 
         </span>
         <br>
         <span>
@@ -35,7 +35,7 @@
             - Just an Studio ghibli lover :heavy_heart_exclamation:
         </span>
     </div>
-    <div align="center">
+    <div>
         <img src="/images/Artorias.gif" height="180em" />
         <img src="/images/bonfire.gif" height="180em" />
     </div>
