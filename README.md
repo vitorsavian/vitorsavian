@@ -36,8 +36,8 @@
         </span>
     </div>
     <div>
-        <img src="https://tenor.com/view/dark-souls-bonfire-gif-20055180" height="180em" />
-        <img src="https://tenor.com/view/dark-souls-bonfire-gif-20055180" height="180em" />
+        <img src="/images/Artorias.gif" height="180em" />
+        <img src="/images/bonfire.gif" height="180em" />
     </div>
 
 </div>
