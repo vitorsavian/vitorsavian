@@ -35,9 +35,8 @@
             - Just an Studio ghibli lover :heavy_heart_exclamation:
         </span>
     </div>
-    
     <div>
-    fon
+        ![teste](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
     </div>
 
 </div>
