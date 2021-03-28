@@ -51,7 +51,7 @@
 
   <h2>Skills</h2>
 
-  <h4>Back-End Languages</h4>
+  <h4>Main Languages</h4>
   <img align="center" alt="Vitor-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Vitor-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
   <img align="center" alt="Vitor-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
