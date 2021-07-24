@@ -11,10 +11,6 @@
         </span>
         <br>
         <span>
-            - Working with React, Node and Firebase at the moment :heavy_check_mark: 
-        </span>
-        <br>
-        <span>
             - RPG and Video Games lover 24/7 :video_game: :space_invader:
         </span>
         <br>
