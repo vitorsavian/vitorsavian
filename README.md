@@ -33,7 +33,6 @@
     <h2></h2>
 </div>
     <div>
-        <img src="/images/Artorias.gif" height="180em" />
         <img src="/images/bonfire.gif" height="180em" />
     </div>
 
