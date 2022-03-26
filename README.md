@@ -38,9 +38,9 @@
 
 <h2>Github Stats</h2>
 <br>
-<a href="https://github.com/iconicsoda">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bitvito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bitvito&layout=compact&langs_count=8&theme=dracula"/>
+<a href="https://github.com/vitorsavian">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vitorsavian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vitorsavian&layout=compact&langs_count=8&theme=dracula"/>
 <div>
 <div style="display: inline_block"><br>
 
