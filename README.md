@@ -1,12 +1,12 @@
 # Hi there, Welcome to my Github 👋
 ## My Name is Vitor :video_game: :game_die:
 
-- Computer sciencia enthusiast in general :trophy: :rice_cracker:
+- Computer science enthusiast in general :trophy: :rice_cracker:
+- Open source maintainer :cowboy_hat_face:
 - Dungeons and dragons fan 24/7 :video_game: :space_invader:
 - Trying every day to become a better person and better programmer :black_joker:
 - Studying at the moment -> Art of Computer Programming, Concrete Math and Clean Arch :flower_playing_cards:
-- Waiting for Skynet dominate us all :robot:
-- Just an Studio ghibli lover :heavy_heart_exclamation:
+- Just an Studio ghibli l :heavy_heart_exclamation:
 ---
 
 <img src="/images/bonfire.gif" height="180em" />
