@@ -6,7 +6,7 @@
 - Dungeons and dragons fan 24/7 :video_game: :space_invader:
 - Trying every day to become a better person and better programmer :black_joker:
 - Studying at the moment -> Art of Computer Programming, Concrete Math and Clean Arch :flower_playing_cards:
-- Just an Studio ghibli l :heavy_heart_exclamation:
+- Just an Studio ghibli lover :heavy_heart_exclamation:
 ---
 
 <img src="/images/bonfire.gif" height="180em" />
