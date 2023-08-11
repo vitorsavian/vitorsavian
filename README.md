@@ -28,8 +28,6 @@
 <img align="center" alt="Vitor-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img align="center" alt="Vitor-Zig" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg">
 <img align="center" alt="Vitor-Ocaml" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg">
-<img align="center" alt="Vitor-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
-<img align="center" alt="Vitor-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
 
 ---
   
