@@ -24,9 +24,8 @@
 <img align="center" alt="Vitor-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
 <img align="center" alt="Vitor-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 <img align="center" alt="Vitor-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-<img align="center" alt="Vitor-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 <img align="center" alt="Vitor-Zig" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg">
-<img align="center" alt="Vitor-Ocaml" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg">
+<img align="center" alt="Vitor-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 
 ---
   
