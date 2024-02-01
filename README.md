@@ -1,4 +1,4 @@
-- I just build stuff and try to contribute to Open source
+- I just build stuff and contribute to Open source
 
 ### Github Stats
 <a href="https://github.com/vitorsavian">
