@@ -1,5 +1,5 @@
 - I just build stuff and contribute to Open source
-- Game programming, cloud and system programming fan
+- Game programming, cloud and system programming
 
 ### Github Stats
 <a href="https://github.com/vitorsavian">
